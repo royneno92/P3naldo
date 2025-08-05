@@ -23,7 +23,7 @@
 
 //Batas
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'group Bejo 1';
+var Comment18 = 'Ngepet 1';
 
 
 
