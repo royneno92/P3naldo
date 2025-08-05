@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  try to take over the world!
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Ngepet/Ngepet1.js
+// @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Ngepet/Ngepet1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
