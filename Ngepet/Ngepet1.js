@@ -18,7 +18,40 @@
 // ==/UserScript==
 
 
-
+var namagroup1 = 'K86';
+var Comment1 = 'K86TOTO ( BANDALAM98 ) : 89*02*76';
+var namagroup2 = 'VESPA';
+var Comment2 = 'VEPSATOGEL (SEPEDABMX23) 56*01*20';
+var namagroup3 = 'ALLPAS';
+var Comment3 = 'Tok99toto ( JALIPONG89 ) : 70*46*34';
+var namagroup4 = 'ANGKER';
+var Comment4 = 'ANGKER4D=SAPULIDI45=70*46*34';
+var namagroup5 = 'PEDRO';
+var Comment5 = '#PEDRO4D (BAMBUKU99*56*01*20)';
+var namagroup6 = 'JNE';
+var Comment6 = '#JNETOTO(FUFUFEFE09)*89*02*76';
+var namagroup7 = 'DIVA';
+var Comment7 = '#DIVA4D (DEWAKOPI65) = 30*87*39';
+var namagroup8 = 'G41B';
+var Comment8 = 'GAIB4D=DEWASURYA12=30*87*39';
+var namagroup9 = 'TIKTAK';
+var Comment9 = 'Tiktaktogel / DEWPANCAL12 / 83 , 49 , 97';
+var namagroup10 = '453P';
+var Comment10 = 'ASEPTOGEL ROKOKINAJA12 83*49*97';
+var namagroup11 = 'G1LA';
+var Comment11 = 'GILA4D=SMILEAJA08=60*35*73';
+var namagroup12 = 'KUY';
+var Comment12 = 'TOGELKUY MURAY90 60*35*73';
+var namagroup13 = 'TAFSIR';
+var Comment13 = 'SIJITOGEL KRAKENDOR23 17*31*38';
+var namagroup14 = 'GOH';
+var Comment14 = 'GOHTOGEL=LELAHAKU09=86*82*95';
+var namagroup15 = 'BUKU';
+var Comment15 = 'IYATOTO MATABIRU89 99*17*31';
+var namagroup16 = 'KEI';
+var Comment16 = '#keitogel = (ESCENDOL1) = 86*82*95';
+var namagroup17 = 'TOYIB';
+var Comment17 = '#TOYIBSLOT ( ESKOPYOR2 ) : 86*82*95';
 
 
 //Batas
