@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'K86';
-var Comment1 = 'K86TOTO ( ANCUAK11 ) : 55*10*98';
-var namagroup2 = 'VESPA';
-var Comment2 = 'VESPATOGEL (ANHUAT24) 57*52*32';
+"var namagroup1 = 'K86';
+var Comment1 = 'K86TOTO ( MONKILL70 ) : 41*40*81';
+var namagroup2 = 'TAFSIR';
+var Comment2 = 'SIJITOGEL (MONIX57) 04*17*18';
 var namagroup3 = 'ALLPAS';
-var Comment3 = 'Tok99toto ( ANKIONG12 ) : 96*72*50';
-var namagroup4 = 'ANGKER';
-var Comment4 = 'ANGKER4D=ANTIAM21=96*72*50';
-var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (ANSUELE13*57*52*32)';
+var Comment3 = 'Tok99toto ( MOYONG58 ) : 61*76*57';
+var namagroup4 = 'G41B';
+var Comment4 = 'GAIB4D=MONLIY59=61*76*57';
+var namagroup5 = 'BUKU';
+var Comment5 = 'IYATOTO MONTRIX60 04*17*18';
 var namagroup6 = 'JNE';
-var Comment6 = '#JNETOTO(ANCIAK22)*55*10*98';
+var Comment6 = '#JNETOTO(MONCRUT61)*83*37*49';
 var namagroup7 = 'DIVA';
-var Comment7 = '#DIVA4D (ANSUELE13) = 15*07*42';
-var namagroup8 = 'G41B';
-var Comment8 = 'GAIB4D=ANHOSE23=15*07*42';
+var Comment7 = '#DIVA4D (MONZELL62) = 89*74*65';
+var namagroup8 = 'KIOS';
+var Comment8 = 'KIOSTOTO=MOZALL63=89*74*65';
 var namagroup9 = 'TIKTAK';
-var Comment9 = 'Tiktaktogel / ANKUNGTO15 / 67 , 37 , 45';
+var Comment9 = 'Tiktaktogel / MONTREX64 / 45 , 46 , 38';
 var namagroup10 = '453P';
-var Comment10 = 'ASEPTOGEL ANCUN25 67*37*45';
+var Comment10 = 'ASEPTOGEL MONCRIT65 45*46*38';
 var namagroup11 = 'G1LA';
-var Comment11 = 'GILA4D=ANMPEK16=06*40*74';
+var Comment11 = 'GILA4D=MONLES66=02*09*39';
 var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY ANCUN25 06*40*74';
-var namagroup13 = 'TAFSIR';
-var Comment13 = 'SIJITOGEL ANHUAT24 05*53*26';
+var Comment12 = 'TOGELKUY MONBANK67 02*09*39';
+var namagroup13 = 'VESPA';
+var Comment13 = 'VESPATOGEL MONIX57 36*01*94';
 var namagroup14 = 'GOH';
-var Comment14 = 'GOHTOGEL=ANCIOKIM26=66*71*41';
-var namagroup15 = 'BUKU';
-var Comment15 = 'IYATOTO ANHAUCE18 85*05*53';
+var Comment14 = 'GOHTOGEL=MONFANG69=36*01*94';
+var namagroup15 = 'ANGKER';
+var Comment15 = 'ANGKER4D=MONLIY59=00#10000';
 var namagroup16 = 'KEI';
-var Comment16 = '#keitogel = (ANMUMET19) = 66*71*41';
+var Comment16 = '#keitogel = (MONYUS71) = 41*40*81';
 var namagroup17 = 'TOYIB';
-var Comment17 = '#TOYIBSLOT ( ANKONYA17 ) : 66*71*41';
+var Comment17 = '#TOYIBSLOT ( MONWER68 ) : 83*37*49';"	
 
 
 //Batas
