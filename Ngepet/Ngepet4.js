@@ -21,7 +21,7 @@
 var namagroup1 = 'K86';
 var Comment1 = 'K86TOTO ( 1TAMBAH1 ) : 19*16*44';
 var namagroup2 = 'VESPA';
-var Comment2 = 'VEPSATOGEL (2TAMBAH2) 00*94*43';
+var Comment2 = 'VESPATOGEL (2TAMBAH2) 00*94*43';
 var namagroup3 = 'ALLPAS';
 var Comment3 = 'Tok99toto ( 3TAMBAH3 ) : 90*13*14';
 var namagroup4 = 'ANGKER';
