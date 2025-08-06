@@ -21,7 +21,7 @@
 var namagroup1 = 'K86';
 var Comment1 = 'K86TOTO ( BANDALAM98 ) : 89*02*76';
 var namagroup2 = 'VESPA';
-var Comment2 = 'VEPSATOGEL (SEPEDABMX23) 56*01*20';
+var Comment2 = 'VESPATOGEL (SEPEDABMX23) 56*01*20';
 var namagroup3 = 'ALLPAS';
 var Comment3 = 'Tok99toto ( JALIPONG89 ) : 70*46*34';
 var namagroup4 = 'ANGKER';
