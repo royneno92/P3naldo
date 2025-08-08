@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-"var namagroup1 = 'TAFSIR';
+var namagroup1 = 'TAFSIR';
 var Comment1 = 'SIJITOGEL KOPILATTE99 34*55*52';
 var namagroup2 = 'TIKTAK';
 var Comment2 = 'Tiktaktogel / TIKTEK / 34 , 55 , 52';
@@ -51,7 +51,7 @@ var Comment15 = 'IYATOTO IJOLUMUT 73*44*66';
 var namagroup16 = 'KEI';
 var Comment16 = '#keitogel = (ARIFGUANTENG) = 94*03*09';
 var namagroup17 = '453P';
-var Comment17 = 'ASEPTOGEL ARIFASEP 44*66*30';"	
+var Comment17 = 'ASEPTOGEL ARIFASEP 44*66*30';
 
 
 //Batas
