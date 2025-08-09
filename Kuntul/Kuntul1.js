@@ -56,7 +56,7 @@ var Comment17 = 'Timur';
 
 //Batas
 var namagroup18 = 'Jawatengah';
-var Comment18 = 'Cumi 1';
+var Comment18 = 'Kuntul 1';
 
 
 
