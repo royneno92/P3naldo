@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu4
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu4
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu4
@@ -37,7 +37,7 @@ var Comment8 = 'GAIB4D=SUKANGANTUK=53*86*50';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (SEMONGKOZ*95*19*42#750)';
 var namagroup10 = 'VESPA';
-var Comment10 = 'VESPAATOGEL (KUTANGCAWET) 95*19*42';
+var Comment10 = 'VESPATOGEL (KUTANGCAWET) 95*19*42';
 var namagroup11 = 'DIVA';
 var Comment11 = '#DIVA4D (ULETBULU) = 57*96*15';
 var namagroup12 = 'G1LA';
