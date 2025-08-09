@@ -37,7 +37,7 @@ var Comment8 = 'GAIB4D=RAIKIRI=92*71*29';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (SUWINGZ*83*40*18#750)';
 var namagroup10 = 'VESPA';
-var Comment10 = 'VESPAATOGEL (MAXWIN99) 83*40*18';
+var Comment10 = 'VESPATOGEL (MAXWIN99) 83*40*18';
 var namagroup11 = 'DIVA';
 var Comment11 = '#DIVA4D (JONIMYFREN) = 24*81*62';
 var namagroup12 = 'G1LA';
