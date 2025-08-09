@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.1
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu3
-// @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu3
+// @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu3.js
+// @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
