@@ -101,6 +101,13 @@ function scrollLoop5x() {
             window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
             count++;
             setTimeout(scrollNext, 2000);
+        // Setelah 3 detik, balik ke atas
+setTimeout(() => {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+}, 5000); // jeda 3 detik        
         }
         scrollNext();
     }
