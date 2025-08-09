@@ -103,6 +103,14 @@ function scrollLoop5x() {
             count++;
             setTimeout(scrollNext, 2000);
         }
+// Setelah 3 detik, balik ke atas
+setTimeout(() => {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+}, 5000); // jeda 3 detik        
+        }
         scrollNext();
     }
 }
