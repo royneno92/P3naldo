@@ -28,8 +28,8 @@ var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=TOGESTRES95=71*96*37';
 var namagroup5 = 'KEI';
 var Comment5 = '#keitogel = (TOGETURU94) = 55*86*30';
-var namagroup6 = 'GOH';
-var Comment6 = 'GOHTOGEL=TOGEUDUT93=55*86*30';
+var namagroup6 = 'PEDRO';
+var Comment6 = '#PEDRO4D (TOGEUDUT93*55*86*30)';
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL TOGEBOBO92 24*14*82';
 var namagroup8 = 'ANGKER';
@@ -48,10 +48,10 @@ var namagroup14 = 'ALLPAS';
 var Comment14 = 'Tok99toto ( TOGEGANJAL85 ) : 71*96*37';
 var namagroup15 = 'TAFSIR';
 var Comment15 = 'SIJITOGEL TOGEPASAR84 47*51*88';
-var namagroup16 = 'Barat';
-var Comment16 = 'Selatan';
-var namagroup17 = 'Utara';
-var Comment17 = 'Timur';
+var namagroup16 = 'barat';
+var Comment16 = 'selatan';
+var namagroup17 = 'utara';
+var Comment17 = 'timur';
 
 
 //Batas
