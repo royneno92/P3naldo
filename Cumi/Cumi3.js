@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI3
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi3.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi3.js
@@ -21,7 +21,7 @@
 var namagroup1 = 'K86';
 var Comment1 = 'K86TOTO ( FADRAM77 ) : 31*59*19';
 var namagroup2 = 'TAFSIR';
-var Comment2 = 'SIJITOGEL (FADLOZ22) 95*66*28';
+var Comment2 = 'SIJITOGEL FADLOZ22 95*66*28';
 var namagroup3 = 'ALLPAS';
 var Comment3 = 'Tok99toto ( FADPUZ33 ) : 06*10*20';
 var namagroup4 = 'G41B';
@@ -43,11 +43,11 @@ var Comment11 = 'GILA4D=FADPRO11=91*23*56';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY FADMAX22 91*23*56';
 var namagroup13 = 'VESPA';
-var Comment13 = 'VESPATOGEL FADLOZ22 99*26*30';
+var Comment13 = 'VESPATOGEL (FADLOZ22) 99*26*30';
 var namagroup14 = 'GOH';
 var Comment14 = 'GOHTOGEL=FADPER66=99*26*30';
 var namagroup15 = 'ANGKER';
-var Comment15 = 'ANGKER4D=FADNOS44=88#10000';
+var Comment15 = 'ANGKER4D=FADNOS44=88*31*59';
 var namagroup16 = 'KEI';
 var Comment16 = '#keitogel = (FADCOOL88) = 31*59*19';
 var namagroup17 = 'TOYIB';
