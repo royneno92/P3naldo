@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI2
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi2.js
@@ -87,29 +87,6 @@ var janganclose = false
 let sedangScroll = false;
 let scrollUlang = false;
 let scrollPerCycle = 5;
-
-function scrollLoop5x() {
-    if (document.location.href.includes("group")) {
-        if (sedangScroll) return;
-        sedangScroll = true;
-        let count = 0;
-        function scrollNext() {
-            if (count >= scrollPerCycle) {
-                sedangScroll = false;
-                return;
-            }
-            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-            count++;
-            setTimeout(scrollNext, 2000);
-        }
-        scrollNext();
-    }
-}
-setInterval(() => {
-    if (window.scrollY <5000 && !sedangScroll) {
-        scrollLoop5x();
-    }
-}, 2000);
 
 function isAdmin(name) {
     if (!adminListReady || !name) return false;
