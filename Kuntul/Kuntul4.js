@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL4
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js
@@ -35,7 +35,7 @@ var Comment7 = 'ASEPTOGEL JINPUSING 04*19*97';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=JINJANJUN=';
 var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=JINKESELEK=09*46*32#300';
+var Comment9 = 'GILA4D=JINKESELEK=09*46*32';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(JINKASUR)*61*11*81';
 var namagroup11 = 'TOYIB';
