@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI4
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'K86';
+var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( JEMMUT171 ) : 21*64*51';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL JEMLENG313 54*03*50';
