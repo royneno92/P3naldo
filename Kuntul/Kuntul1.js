@@ -35,7 +35,7 @@ var Comment7 = 'ASEPTOGEL ULONTU18 75*64*15';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=ULOMPEK19=62*07*94';
 var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=ULOLENGSU20=79*73*77#300';
+var Comment9 = 'GILA4D=ULOLENGSU20=79*73*77';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(ULOCILIT21)*18*20*65';
 var namagroup11 = 'TOYIB';
