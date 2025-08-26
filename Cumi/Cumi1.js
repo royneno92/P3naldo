@@ -22,7 +22,7 @@ var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( MONKILL70 ) : 41*40*81';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL MONIX57 04*17*18';
-var namagroup3 = 'ALLPAS';
+var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( MOYONG58 ) : 61*76*57';
 var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=MONLIY59=61*76*57';
