@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI1
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
@@ -28,13 +28,13 @@ var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=MONLIY59=61*76*57';
 var namagroup5 = 'BUKU';
 var Comment5 = 'IYATOTO MONTRIX60 04*17*18';
-var namagroup6 = 'JNE';
+var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(MONCRUT61)*83*37*49';
-var namagroup7 = 'DIVA';
+var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (MONZELL62) = 89*74*65';
-var namagroup8 = 'KIOS';
+var namagroup8 = 'KIOST0T0';
 var Comment8 = 'KIOSTOTO=MOZALL63=89*74*65';
-var namagroup9 = 'TIKTAK';
+var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / MONTREX64 / 45 , 46 , 38';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL MONCRIT65 45*46*38';
@@ -44,13 +44,13 @@ var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY MONBANK67 02*09*39';
 var namagroup13 = 'VESPA';
 var Comment13 = 'VESPATOGEL (MONIX57) 36*01*94';
-var namagroup14 = 'GOH';
+var namagroup14 = 'GOHT0G3L';
 var Comment14 = 'GOHTOGEL=MONFANG69=36*01*94';
 var namagroup15 = 'ANGKER';
 var Comment15 = 'ANGKER4D=MONLIY59=00*41*40';
-var namagroup16 = 'KEI';
+var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (MONYUS71) = 41*40*81';
-var namagroup17 = 'TOYIB';
+var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( MONWER68 ) : 83*37*49';
 
 
