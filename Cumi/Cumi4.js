@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI4
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
@@ -22,19 +22,19 @@ var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( JEMMUT171 ) : 21*64*51';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL JEMLENG313 54*03*50';
-var namagroup3 = 'ALLPAS';
+var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( JEMSUW414 ) : 12*93*13';
 var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=JEMCIAK515=12*93*13';
 var namagroup5 = 'BUKU';
 var Comment5 = 'IYATOTO JEMNTIL616 54*03*50';
-var namagroup6 = 'JNE';
+var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(JEMBEREN717)*90*35*80';
-var namagroup7 = 'DIVA';
+var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (JEMPEK818) = 43*97*52';
-var namagroup8 = 'KIOS';
+var namagroup8 = 'KIOST0T0';
 var Comment8 = 'KIOSTOTO=JEMNTU919=43*97*52';
-var namagroup9 = 'TIKTAK';
+var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / JEMSLIT121 / 07 , 84 , 77';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL JEMCIL131 07*84*77';
@@ -42,16 +42,16 @@ var namagroup11 = 'G1LA';
 var Comment11 = 'GILA4D=JEMLOZ141=73*53*79';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY JEMKROS151 73*53*79';
-var namagroup13 = 'VESPA';
+var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (JEMLENG313) 05*27*98';
-var namagroup14 = 'GOH';
+var namagroup14 = 'GOHT0G3L';
 var Comment14 = 'GOHTOGEL=JEMBAUJUM=05*27*98';
 var namagroup15 = 'ANGKER';
 var Comment15 = 'ANGKER4D=JEMCIAK515=11*21*64';
-var namagroup16 = 'KEI';
+var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (JEMNDIANG) = 21*64*51';
-var namagroup17 = 'TOYIB';
-var Comment17 = '#TOYIBSLOT ( JEMSRENG161 ) : 90*35*80';
+var namagroup17 = 'TOYIBSLOT';
+var Comment17 = '#TOYIBSLOT ( JEMSRENG161 ) : 90*35*80';	
 
 //Batas
 var namagroup18 = 'Jawatengah';
