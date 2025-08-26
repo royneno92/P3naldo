@@ -42,7 +42,7 @@ var namagroup11 = 'G1LA';
 var Comment11 = 'GILA4D=MONLES66=02*09*39';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY MONBANK67 02*09*39';
-var namagroup13 = 'VESPA';
+var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (MONIX57) 36*01*94';
 var namagroup14 = 'GOHT0G3L';
 var Comment14 = 'GOHTOGEL=MONFANG69=36*01*94';
