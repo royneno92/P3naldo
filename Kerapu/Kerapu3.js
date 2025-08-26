@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu3
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu3.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu3.js
@@ -20,35 +20,35 @@
 
 var namagroup1 = 'TAFSIR';
 var Comment1 = 'SIJITOGEL JIROLU123 68*46*04';
-var namagroup2 = 'TIKTAK';
+var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / SLEBEWW / 68 , 46 , 04';
-var namagroup3 = 'ALLPAS';
+var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( DUPAN ) : 61*31*87';
 var namagroup4 = 'ANGKER';
 var Comment4 = 'ANGKER4D=AMIN500X=61*31*87';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY KAJINEKAJI88 21*63*91';
-var namagroup6 = 'JNE';
+var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(HOKMIN)*21*63*91';
-var namagroup7 = 'TOYIB';
+var namagroup7 = 'TOYIBSLOT';
 var Comment7 = '#TOYIBSLOT ( AMINGZ90 ) : 92*71*29';
 var namagroup8 = 'G41B';
 var Comment8 = 'GAIB4D=RAIKIRI=92*71*29';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (SUWINGZ*83*40*18#750)';
-var namagroup10 = 'VESPA';
+var namagroup10 = 'VESPA7093L';
 var Comment10 = 'VESPATOGEL (MAXWIN99) 83*40*18';
-var namagroup11 = 'DIVA';
+var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (JONIMYFREN) = 24*81*62';
 var namagroup12 = 'G1LA';
 var Comment12 = 'GILA4D=EDANSAYA=24*81*62';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( TRZLA01 ) : 22*97*00';
-var namagroup14 = 'GOH';
+var namagroup14 = 'GOHT0G3L';
 var Comment14 = 'GOHTOGEL=MAXMIN=22*97*00';
 var namagroup15 = 'BUKU';
 var Comment15 = 'IYATOTO MRLUNTIAM 14*89*98';
-var namagroup16 = 'KEI';
+var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (WULUTIBO88) = 24*81*62';
 var namagroup17 = '453P';
 var Comment17 = 'ASEPTOGEL AMINHOKI 89*98*51';
