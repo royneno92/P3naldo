@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu4
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu4.js
@@ -88,35 +88,6 @@ let sedangScroll = false;
 let scrollUlang = false;
 let scrollPerCycle = 5;
 
-function scrollLoop5x() {
-    if (document.location.href.includes("group")) {
-        if (sedangScroll) return;
-        sedangScroll = true;
-        let count = 0;
-        function scrollNext() {
-            if (count >= scrollPerCycle) {
-                sedangScroll = false;
-                return;
-            }
-            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-            count++;
-            setTimeout(scrollNext, 2000);
-        // Setelah 3 detik, balik ke atas
-setTimeout(() => {
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-    });
-}, 5000); // jeda 3 detik        
-        }
-        scrollNext();
-    }
-}
-setInterval(() => {
-    if (window.scrollY <5000 && !sedangScroll) {
-        scrollLoop5x();
-    }
-}, 2000);
 
 function isAdmin(name) {
     if (!adminListReady || !name) return false;
