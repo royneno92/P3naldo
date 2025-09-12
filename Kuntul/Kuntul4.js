@@ -89,28 +89,7 @@ let sedangScroll = false;
 let scrollUlang = false;
 let scrollPerCycle = 5;
 
-function scrollLoop5x() {
-    if (document.location.href.includes("group")) {
-        if (sedangScroll) return;
-        sedangScroll = true;
-        let count = 0;
-        function scrollNext() {
-            if (count >= scrollPerCycle) {
-                sedangScroll = false;
-                return;
-            }
-            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-            count++;
-            setTimeout(scrollNext, 2000);
-        }
-        scrollNext();
-    }
-}
-setInterval(() => {
-    if (window.scrollY <5000 && !sedangScroll) {
-        scrollLoop5x();
-    }
-}, 2000);
+
 
 function isAdmin(name) {
     if (!adminListReady || !name) return false;
