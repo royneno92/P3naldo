@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL2
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul2.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul2.js
@@ -28,8 +28,8 @@ var namagroup4 = 'G41B';
 var Comment4 = 'GAIB4D=TOGESTRES95=71*96*37';
 var namagroup5 = 'KEI';
 var Comment5 = '#keitogel = (TOGETURU94) = 55*86*30';
-var namagroup6 = 'PEDRO';
-var Comment6 = '#PEDRO4D (TOGEUDUT93*55*86*30)';
+var namagroup6 = 'SAHABAT';
+var Comment6 = 'K86TOTO ( TOGEUDUT93 ) : 55*86*30';
 var namagroup7 = '453P';
 var Comment7 = 'ASEPTOGEL TOGEBOBO92 24*14*82';
 var namagroup8 = 'ANGKER';
@@ -89,28 +89,7 @@ let sedangScroll = false;
 let scrollUlang = false;
 let scrollPerCycle = 5;
 
-function scrollLoop5x() {
-    if (document.location.href.includes("group")) {
-        if (sedangScroll) return;
-        sedangScroll = true;
-        let count = 0;
-        function scrollNext() {
-            if (count >= scrollPerCycle) {
-                sedangScroll = false;
-                return;
-            }
-            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-            count++;
-            setTimeout(scrollNext, 2000);
-        }
-        scrollNext();
-    }
-}
-setInterval(() => {
-    if (window.scrollY <5000 && !sedangScroll) {
-        scrollLoop5x();
-    }
-}, 2000);
+
 
 function isAdmin(name) {
     if (!adminListReady || !name) return false;
