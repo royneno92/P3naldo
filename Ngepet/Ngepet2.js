@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ROY2
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Ngepet/Ngepet2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Ngepet/Ngepet2.js
@@ -32,8 +32,8 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(RIFKUAJA12)*61*27*48';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (RIBEEMWE14) = 69*36*24';
-var namagroup8 = 'G41B';
-var Comment8 = 'GAIB4D=RITUNER12=69*36*24';
+var namagroup8 = 'MAYAPADA';
+var Comment8 = 'BETT*Mayapada4D(BO)*RITUNER12*69*36*24';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / RILAMBO66 / 58 , 04 , 81';
 var namagroup10 = '453P';
