@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu1
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
@@ -34,7 +34,7 @@ var namagroup7 = 'TOYIBSLOT';
 var Comment7 = '#TOYIBSLOT ( ARIPINUPIN ) : 58*17*93';
 var namagroup8 = 'G41B';
 var Comment8 = 'GAIB4D=KOMPOR=58*17*93';
-var namagroup9 = 'PEDRO';
+var namagroup9 = 'PEDRO TRIFHTING';
 var Comment9 = '#PEDRO4D (TOLEIRENG*64*65*32#750)';
 var namagroup10 = 'VESPA7093L';
 var Comment10 = 'VESPATOGEL (WONGSO777) 64*65*32';
