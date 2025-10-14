@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL1
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul1.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul1.js
@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*ULOCONDA12*79*73';
-var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO ULOCOROS13 68*05*98';
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment1 = 'Tok99toto ( ULOMEK25 ) : 32*54*58';
+var namagroup2 = 'SAHABAT';
+var Comment2 = 'K86TOTO ( ULOPEJU17 ) : 32*54*58';
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / ULODARAT14 / 68 , 05 , 98';
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=ULOCURUT15=48*10*42';
-var namagroup5 = 'KEI';
-var Comment5 = '#keitogel = (ULOEDIAN16) = 53*45*60';
-var namagroup6 = 'SAHABAT';
-var Comment6 = 'K86TOTO ( ULOPEJU17 ) : 53*45*60';
-var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL ULONTU18 75*64*15';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=ULOMPEK19=62*07*94';
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=ULOLENGSU20=79*73*77';
-var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(ULOCILIT21)*18*20*65';
-var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( ULOGEDANG24 ) : 75*64*15';
-var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY ULOSAWAH23 62*07*94';
-var namagroup13 = 'VESPA';
-var Comment13 = 'VESPATOGEL (ULOCOBRA26) 79*73*77';
-var namagroup14 = 'ALLPAS';
-var Comment14 = 'Tok99toto ( ULOMEK25 ) : 48*10*42';
-var namagroup15 = 'TAFSIR';
-var Comment15 = 'SIJITOGEL ULOCOBRA26 63*57*56';
-var namagroup16 = 'barat';
-var Comment16 = 'selatan';
-var namagroup17 = 'utara';
-var Comment17 = 'timur';
+var Comment3 = 'Tiktaktogel / ULODARAT14 / 12 , 18 , 39';
+var namagroup4 = 'TAFSIR';
+var Comment4 = 'SIJITOGEL ULOCOBRA26 12*18*39';
+var namagroup5 = '453P';
+var Comment5 = 'ASEPTOGEL ULONTU18 51*21*08';
+var namagroup6 = 'OPUNG';
+var Comment6 = 'OPUNG4D ( MAMBUAWAKMU ) : 51*21*08';
+var namagroup7 = 'MAYAPADA';
+var Comment7 = 'BETT*Mayapada4D(BO)*BADEGAWAKMU*42*68*65';
+var namagroup8 = 'JNE';
+var Comment8 = '#JNETOTO(ULOCILIT21)*42*68*65';
+var namagroup9 = 'TOYIB';
+var Comment9 = '#TOYIBSLOT ( ULOGEDANG24 ) : 43*34*71';
+var namagroup10 = 'KUY';
+var Comment10 = 'TOGELKUY ULOSAWAH23 43*34*71';
+var namagroup11 = 'Hoho';
+var Comment11 = 'BAUBADANN : 01*00*37 #HOHOTOGEL';
+var namagroup12 = 'VESPA';
+var Comment12 = 'VESPATOGEL (ULOCOBRA26) 01*00*37';
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (BADANBAUU) : 88*64*93';
+var namagroup14 = 'BUKU';
+var Comment14 = 'IYATOTO ULOCOROS13 88*64*93';
+var namagroup15 = 'KEI';
+var Comment15 = '#keitogel = (ULOEDIAN16) = 28*92*42';
+var namagroup16 = 'KOITOTO';
+var Comment16 = '#KOITOTO ( JAREBAUBADAN ) 78*24';
+var namagroup17 = 'KIKO';
+var Comment17 = '#KIKOTOTO (MAMBUAWAKE) = 78*24';
 
 
 //Batas
