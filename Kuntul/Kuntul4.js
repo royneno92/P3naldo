@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL4
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js
@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*JINBOTAK*09*46';
-var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO JINKURUS 78*36*03';
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment1 = 'Tok99toto ( JIN5WAKTU ) : 61*75*81';
+var namagroup2 = 'SAHABAT';
+var Comment2 = 'K86TOTO ( JINSTRESS ) : 61*75*81';
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / JINGENDUT / 78 , 36 , 03';
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=JINTOBRUT=34*49*13';
-var namagroup5 = 'KEI';
-var Comment5 = '#keitogel = (JINMESIR) = ';
-var namagroup6 = 'SAHABAT';
-var Comment6 = 'K86TOTO ( JINSTRESS ) : 67*90*69';
-var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL JINPUSING 04*19*97';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=JINJANJUN=';
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=JINKESELEK=09*46*32';
-var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(JINKASUR)*61*11*81';
-var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( JINSOLEHA ) : 04*19*97';
-var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY JINPEKOK 85*12*21';
-var namagroup13 = 'VESPA';
-var Comment13 = 'VESPATOGEL (JINWATUK) 09*46*32';
-var namagroup14 = 'ALLPAS';
-var Comment14 = 'Tok99toto ( JIN5WAKTU ) : 34*49*13';
-var namagroup15 = 'TAFSIR';
-var Comment15 = 'SIJITOGEL JINWATUK 29*25*02';
-var namagroup16 = 'barat';
-var Comment16 = 'selatan';
-var namagroup17 = 'utara';
-var Comment17 = 'timur';
+var Comment3 = 'Tiktaktogel / JINGENDUT / 79 , 11 , 84';
+var namagroup4 = 'TAFSIR';
+var Comment4 = 'SIJITOGEL JINWATUK 79*11*84';
+var namagroup5 = '453P';
+var Comment5 = 'ASEPTOGEL JINPUSING 19*31*05';
+var namagroup6 = 'OPUNG';
+var Comment6 = 'OPUNG4D ( JINYAHUD ) : 19*31*05';
+var namagroup7 = 'MAYAPADA';
+var Comment7 = 'BETT*Mayapada4D(BO)*JINHIBIN*96*70*30';
+var namagroup8 = 'JNE';
+var Comment8 = '#JNETOTO(JINKASUR)*96*70*30';
+var namagroup9 = 'TOYIB';
+var Comment9 = '#TOYIBSLOT ( JINSOLEHA ) : 63*95*29';
+var namagroup10 = 'KUY';
+var Comment10 = 'TOGELKUY JINPEKOK 63*95*29';
+var namagroup11 = 'Hoho';
+var Comment11 = 'JINKLIWON : 90*27*45 #HOHOTOGEL';
+var namagroup12 = 'VESPA';
+var Comment12 = 'VESPATOGEL (JINWATUK) 90*27*45';
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (JINJANJUN) : 98*97*82';
+var namagroup14 = 'BUKU';
+var Comment14 = 'IYATOTO JINKURUS 98*97*82';
+var namagroup15 = 'KEI';
+var Comment15 = '#keitogel = (JINMESIR) = 33';
+var namagroup16 = 'KOITOTO';
+var Comment16 = '#KOITOTO ( JINTOBAT ) 69*09';
+var namagroup17 = 'KIKO';
+var Comment17 = '#KIKOTOTO (JINSYURGA) = 69*09';
 
 
 //Batas
