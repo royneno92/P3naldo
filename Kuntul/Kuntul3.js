@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL3
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul3.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul3.js
@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*CEBANLE69*38*54';
-var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO CETIAULE61 83*84*41';
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment1 = 'Tok99toto ( CETIAUCIT51 ) : 49*04*41';
+var namagroup2 = 'SAHABAT';
+var Comment2 = 'K86TOTO ( CECINGSI82 ) : 49*04*41';
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / CETIAUPEK65 / 83 , 84 , 41';
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=CEPAKPEK47=31*50*26';
-var namagroup5 = 'KEI';
-var Comment5 = '#keitogel = (CETIAUGO58) = 66*80*28';
-var namagroup6 = 'SAHABAT';
-var Comment6 = 'K86TOTO ( CECINGSI82 ) : 66*80*28';
-var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL CEKAUCENG77 39*43*70';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=CETIAOTIAO49=33*58*16';
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=CEBANSILE29=38*54*87';
-var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(CETIAUPUA39)*89*91*27';
-var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( CETIAURA93 ) : 39*43*70';
-var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY CETIAULAK28 33*58*16';
-var namagroup13 = 'VESPA';
-var Comment13 = 'VESPATOGEL (CETIAUKING49) 38*54*87';
-var namagroup14 = 'ALLPAS';
-var Comment14 = 'Tok99toto ( CETIAUCIT51 ) : 31*50*26';
-var namagroup15 = 'TAFSIR';
-var Comment15 = 'SIJITOGEL CETIAUKING49 74*06*08';
-var namagroup16 = 'barat';
-var Comment16 = 'selatan';
-var namagroup17 = 'timur';
-var Comment17 = 'utara';
+var Comment3 = 'Tiktaktogel / CETIAUPEK65 / 15 , 13 , 62';
+var namagroup4 = 'TAFSIR';
+var Comment4 = 'SIJITOGEL CETIAUKING49 15*13*62';
+var namagroup5 = '453P';
+var Comment5 = 'ASEPTOGEL CEKAUCENG77 87*72*50';
+var namagroup6 = 'OPUNG';
+var Comment6 = 'OPUNG4D ( CAPGOCENG15 ) : 87*72*50';
+var namagroup7 = 'MAYAPADA';
+var Comment7 = 'BETT*Mayapada4D(BO)*CEBANGO10*74*55*38';
+var namagroup8 = 'JNE';
+var Comment8 = '#JNETOTO(CETIAUPUA39)*74*55*38';
+var namagroup9 = 'TOYIB';
+var Comment9 = '#TOYIBSLOT ( CETIAURA93 ) : 86*16*03';
+var namagroup10 = 'KUY';
+var Comment10 = 'TOGELKUY CETIAULAK28 86*44*03';
+var namagroup11 = 'Hoho';
+var Comment11 = 'CETIAOPEK99 : 59*89*91 #HOHOTOGEL';
+var namagroup12 = 'VESPA';
+var Comment12 = 'VESPATOGEL (CETIAUKING49) 59*89*91';
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (CETIAULAY12) : 14*77*17';
+var namagroup14 = 'BUKU';
+var Comment14 = 'IYATOTO CETIAULE61 14*77*17';
+var namagroup15 = 'KEI';
+var Comment15 = '#keitogel = (CETIAUGO58) = 60*48*74';
+var namagroup16 = 'KOITOTO';
+var Comment16 = '#KOITOTO ( CECICUIT11 ) 99*06';
+var namagroup17 = 'KIKO';
+var Comment17 = '#KIKOTOTO (CECEP999) = 99*06';
 
 
 //Batas
