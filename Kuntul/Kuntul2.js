@@ -18,40 +18,40 @@
 // ==/UserScript==
 
 
-var namagroup1 = 'shio';
-var Comment1 = '#shiokelinci4d*TOGESUPER98*76*35';
-var namagroup2 = 'BUKU';
-var Comment2 = 'IYATOTO TOGEKLIMAKS9 59*17*92';
+var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var Comment1 = 'Tok99toto ( TOGEGANJAL85 ) : 23*80*35';
+var namagroup2 = 'SAHABAT';
+var Comment2 = 'K86TOTO ( TOGEUDUT93 ) : 23*80*35';
 var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / TOGEMANTUL96 / 59 , 17 , 92';
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=TOGESTRES95=71*96*37';
-var namagroup5 = 'KEI';
-var Comment5 = '#keitogel = (TOGETURU94) = 55*86*30';
-var namagroup6 = 'SAHABAT';
-var Comment6 = 'K86TOTO ( TOGEUDUT93 ) : 55*86*30';
-var namagroup7 = '453P';
-var Comment7 = 'ASEPTOGEL TOGEBOBO92 24*14*82';
-var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=TOGEMIMIK91=01*95*52';
-var namagroup9 = 'G1LA';
-var Comment9 = 'GILA4D=TOGENCER90=76*35*93';
-var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(TOGEDOR89)*72*23*40';
-var namagroup11 = 'TOYIB';
-var Comment11 = '#TOYIBSLOT ( TOGENJET86 ) : 24*14*82';
-var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY TOGENTAT87 01*95*52';
-var namagroup13 = 'VESPA';
-var Comment13 = 'VESPATOGEL (TOGEPASAR84) 76*35*93';
-var namagroup14 = 'ALLPAS';
-var Comment14 = 'Tok99toto ( TOGEGANJAL85 ) : 71*96*37';
-var namagroup15 = 'TAFSIR';
-var Comment15 = 'SIJITOGEL TOGEPASAR84 47*51*88';
-var namagroup16 = 'barat';
-var Comment16 = 'selatan';
-var namagroup17 = 'utara';
-var Comment17 = 'timur';
+var Comment3 = 'Tiktaktogel / TOGEMANTUL96 / 73 , 57 , 26';
+var namagroup4 = 'TAFSIR';
+var Comment4 = 'SIJITOGEL TOGEPASAR84 73*57*26';
+var namagroup5 = '453P';
+var Comment5 = 'ASEPTOGEL TOGEBOBO92 83*52*02';
+var namagroup6 = 'OPUNG';
+var Comment6 = 'OPUNG4D ( TOGESIU10 ) : 83*52*02';
+var namagroup7 = 'MAYAPADA';
+var Comment7 = 'BETT*Mayapada4D(BO)*TOGE1KG*07*36*46';
+var namagroup8 = 'JNE';
+var Comment8 = '#JNETOTO(TOGEDOR89)*07*36*46';
+var namagroup9 = 'TOYIB';
+var Comment9 = '#TOYIBSLOT ( TOGENJET86 ) : 47*56*25';
+var namagroup10 = 'KUY';
+var Comment10 = 'TOGELKUY TOGENTAT87 47*56*25';
+var namagroup11 = 'Hoho';
+var Comment11 = 'TOGETAUGE : 66*67*10 #HOHOTOGEL';
+var namagroup12 = 'VESPA';
+var Comment12 = 'VESPATOGEL (TOGEPASAR84) 66*67*10';
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (TOGEASLI66) : 94*20*85';
+var namagroup14 = 'BUKU';
+var Comment14 = 'IYATOTO TOGEKLIMAKS9 94*20*85';
+var namagroup15 = 'KEI';
+var Comment15 = '#keitogel = (TOGETURU94) = 40*53*07';
+var namagroup16 = 'KOITOTO';
+var Comment16 = '#KOITOTO ( TOGEGUEDE ) 76*22';
+var namagroup17 = 'KIKO';
+var Comment17 = '#KIKOTOTO (TOGEINAMO) = 76*22';
 
 
 //Batas
