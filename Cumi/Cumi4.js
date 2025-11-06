@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI4
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
@@ -17,7 +17,6 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( JEMMUT171 ) : 21*64*51';
 var namagroup2 = 'TAFSIR';
@@ -32,8 +31,8 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(JEMBEREN717)*90*35*80';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (JEMPEK818) = 43*97*52';
-var namagroup8 = 'KIOST0T0';
-var Comment8 = 'KIOSTOTO=JEMNTU919=43*97*52';
+var namagroup8 = 'MAYAPADA';
+var Comment8 = 'BETT*Mayapada4D(BO)*JEMNTU919*43*97*52';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / JEMSLIT121 / 07 , 84 , 77';
 var namagroup10 = '453P';
@@ -51,7 +50,7 @@ var Comment15 = 'ANGKER4D=JEMCIAK515=11*21*64';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (JEMNDIANG) = 21*64*51';
 var namagroup17 = 'TOYIBSLOT';
-var Comment17 = '#TOYIBSLOT ( JEMSRENG161 ) : 90*35*80';	
+var Comment17 = '#TOYIBSLOT ( JEMSRENG161 ) : 90*35*80';
 
 //Batas
 var namagroup18 = 'Jawatengah';
