@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI2
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi2.js
@@ -32,8 +32,8 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(EKADOR14)*70*87*15';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (EKAJOX13) = 75*96*72';
-var namagroup8 = 'KIOST0T0';
-var Comment8 = 'KIOSTOTO=EKASOME12=75*96*72';
+var namagroup8 = 'MAYAPADA';
+var Comment8 = 'BETT*Mayapada4D(BO)*EKASOME12*75*96*72';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / EKASUPER11 / 63 , 58 , 92';
 var namagroup10 = '453P';
@@ -52,6 +52,8 @@ var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (EKASIP04) = 47*32*33';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( EKANDEM07 ) : 70*87*15';
+
+
 
 //Batas
 var namagroup18 = 'Jawatengah';
