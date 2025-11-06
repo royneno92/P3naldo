@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI1
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
@@ -17,7 +17,6 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( MONKILL70 ) : 41*40*81';
 var namagroup2 = 'TAFSIR';
@@ -32,8 +31,8 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(MONCRUT61)*83*37*49';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (MONZELL62) = 89*74*65';
-var namagroup8 = 'KIOST0T0';
-var Comment8 = 'KIOSTOTO=MOZALL63=89*74*65';
+var namagroup8 = 'MAYAPADA';
+var Comment8 = 'BETT*Mayapada4D(BO)*MOZALL63*89*74*65';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / MONTREX64 / 45 , 46 , 38';
 var namagroup10 = '453P';
