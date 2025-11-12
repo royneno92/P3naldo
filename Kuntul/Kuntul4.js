@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL4
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js
@@ -17,13 +17,12 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
 var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( JIN5WAKTU ) : 61*75*81';
 var namagroup2 = 'SAHABAT';
 var Comment2 = 'K86TOTO ( JINSTRESS ) : 61*75*81';
-var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / JINGENDUT / 79 , 11 , 84';
+var namagroup3 = 'DIVA';
+var Comment3 = '#DIVA4D (JINGENDUT) = 79*11*84';
 var namagroup4 = 'TAFSIR';
 var Comment4 = 'SIJITOGEL JINWATUK 79*11*84';
 var namagroup5 = '453P';
@@ -47,11 +46,13 @@ var Comment13 = 'NEMO4D (JINJANJUN) : 98*97*82';
 var namagroup14 = 'BUKU';
 var Comment14 = 'IYATOTO JINKURUS 98*97*82';
 var namagroup15 = 'KEI';
-var Comment15 = '#keitogel = (JINMESIR) = 33';
+var Comment15 = '#keitogel = (JINMESIR) = 33*44 le';
 var namagroup16 = 'KOITOTO';
 var Comment16 = '#KOITOTO ( JINTOBAT ) 69*09';
 var namagroup17 = 'KIKO';
 var Comment17 = '#KIKOTOTO (JINSYURGA) = 69*09';
+
+
 
 
 //Batas
