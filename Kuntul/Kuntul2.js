@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL2
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul2.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul2.js
@@ -18,12 +18,13 @@
 // ==/UserScript==
 
 
+
 var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment1 = 'Tok99toto ( TOGEGANJAL85 ) : 23*80*35';
 var namagroup2 = 'SAHABAT';
 var Comment2 = 'K86TOTO ( TOGEUDUT93 ) : 23*80*35';
-var namagroup3 = 'TIKTAK';
-var Comment3 = 'Tiktaktogel / TOGEMANTUL96 / 73 , 57 , 26';
+var namagroup3 = 'DIVA';
+var Comment3 = '#DIVA4D (TOGEMANTUL96) = 73*57*26';
 var namagroup4 = 'TAFSIR';
 var Comment4 = 'SIJITOGEL TOGEPASAR84 73*57*26';
 var namagroup5 = '453P';
@@ -47,7 +48,7 @@ var Comment13 = 'NEMO4D (TOGEASLI66) : 94*20*85';
 var namagroup14 = 'BUKU';
 var Comment14 = 'IYATOTO TOGEKLIMAKS9 94*20*85';
 var namagroup15 = 'KEI';
-var Comment15 = '#keitogel = (TOGETURU94) = 40*53*07';
+var Comment15 = '#keitogel = (TOGETURU94) = 40*53#10';
 var namagroup16 = 'KOITOTO';
 var Comment16 = '#KOITOTO ( TOGEGUEDE ) 76*22';
 var namagroup17 = 'KIKO';
