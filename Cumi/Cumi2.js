@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI2
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi2.js
@@ -16,7 +16,6 @@
 // @connect      api.telegram.org
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
-
 
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( EKADUAR05 ) : 47*32*33';
@@ -44,16 +43,14 @@ var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY EKAOMBE08 16*60*22';
 var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (EKALIM18) 24*44*67';
-var namagroup14 = 'GOHT0G3L';
+var namagroup14 = 'GOH';
 var Comment14 = 'GOHTOGEL=EKASONS06=24*44*67';
-var namagroup15 = 'ANGKER';
-var Comment15 = 'ANGKER4D=EKALENG16=55*47*32';
+var namagroup15 = 'NEMO';
+var Comment15 = 'NEMO4D (EKALENG16) : 55*47*32';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (EKASIP04) = 47*32*33';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( EKANDEM07 ) : 70*87*15';
-
-
 
 //Batas
 var namagroup18 = 'Jawatengah';
