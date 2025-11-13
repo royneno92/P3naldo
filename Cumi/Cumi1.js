@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI1
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi1.js
@@ -43,10 +43,10 @@ var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY MONBANK67 02*09*39';
 var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (MONIX57) 36*01*94';
-var namagroup14 = 'GOHT0G3L';
+var namagroup14 = 'GOH';
 var Comment14 = 'GOHTOGEL=MONFANG69=36*01*94';
-var namagroup15 = 'ANGKER';
-var Comment15 = 'ANGKER4D=MONLIY59=00*41*40';
+var namagroup15 = 'NEMO';
+var Comment15 = 'NEMO4D (MONLIY59) : 00*41*40';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (MONYUS71) = 41*40*81';
 var namagroup17 = 'TOYIBSLOT';
