@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI3
 // @namespace    http://tampermonkey.net/
-// @version      3.6
+// @version      3.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi3.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi3.js
@@ -17,14 +17,15 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
+
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( FADRAM77 ) : 31*59*19';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL FADLOZ22 95*66*28';
 var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( FADPUZ33 ) : 06*10*20';
-var namagroup4 = 'G41B';
-var Comment4 = 'GAIB4D=FADNOS44=06*10*20';
+var namagroup4 = 'Hoho';
+var Comment4 = 'FADNOS44 : 06*10*20 #HOHOTOGEL';
 var namagroup5 = 'BUKU';
 var Comment5 = 'IYATOTO FADWOR55 95*66*28';
 var namagroup6 = 'JNETOTO';
@@ -37,21 +38,20 @@ var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / FADYOD99 / 29 , 82 , 69';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL FADVAD00 29*82*69';
-var namagroup11 = 'G1LA';
-var Comment11 = 'GILA4D=FADPRO11=91*23*56';
+var namagroup11 = 'KOI';
+var Comment11 = '#KOITOTO ( FADPRO11 ) 91*23';
 var namagroup12 = 'KUY';
-var Comment12 = 'TOGELKUY FADMAX22 91*23*56';
+var Comment12 = 'TOGELKUY FADMAX22 99*26*30';
 var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (FADLOZ22) 99*26*30';
-var namagroup14 = 'GOH';
-var Comment14 = 'GOHTOGEL=FADPER66=99*26*30';
+var namagroup14 = 'KIKO';
+var Comment14 = '#KIKOTOTO (FADPER66) = 91*23';
 var namagroup15 = 'NEMO';
 var Comment15 = 'NEMO4D (FADNOS44) : 88*31*59';
 var namagroup16 = 'KEITOGEL';
-var Comment16 = '#keitogel = (FADCOOL88) = 31*59*19';
+var Comment16 = '#keitogel = (FADCOOL88) = 31*59*56';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( FADPLUS33 ) : 68*34*71';
-
 
 //Batas
 var namagroup18 = 'Jawatengah';
