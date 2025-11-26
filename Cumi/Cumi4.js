@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI4
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi4.js
@@ -37,18 +37,18 @@ var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / JEMSLIT121 / 07 , 84 , 77';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL JEMCIL131 07*84*77';
-var namagroup11 = 'KOI';
-var Comment11 = '#KOITOTO ( JEMLOZ141 ) 73*53';
+var namagroup11 = 'OPUNG';
+var Comment11 = 'OPUNG4D ( JEMLOZ141 ) : 73*53*79';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY JEMKROS151 05*27*98';
 var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (JEMLENG313) 05*27*98';
-var namagroup14 = 'KIKO';
-var Comment14 = '#KIKOTOTO (JEMBAUJUM) = 73*53';
+var namagroup14 = 'PEDRO';
+var Comment14 = '#PEDRO4D (JEMBAUJUM*73*53*79)';
 var namagroup15 = 'NEMO';
-var Comment15 = 'NEMO4D (JEMCIAK515) : 11*21*64';
+var Comment15 = 'NEMO4D (JEMCIAK515) : 21*64*11';
 var namagroup16 = 'KEITOGEL';
-var Comment16 = '#keitogel = (JEMNDIANG) = 21*64*79';
+var Comment16 = '#keitogel = (JEMNDIANG) = 21*64*51';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( JEMSRENG161 ) : 90*35*80';
 
