@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI3
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi3.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Cumi/Cumi3.js
@@ -38,18 +38,18 @@ var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / FADYOD99 / 29 , 82 , 69';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL FADVAD00 29*82*69';
-var namagroup11 = 'KOI';
-var Comment11 = '#KOITOTO ( FADPRO11 ) 91*23';
+var namagroup11 = 'OPUNG';
+var Comment11 = 'OPUNG4D ( FADPRO11 ) : 91*23*56';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY FADMAX22 99*26*30';
 var namagroup13 = 'VESPA7093L';
 var Comment13 = 'VESPATOGEL (FADLOZ22) 99*26*30';
-var namagroup14 = 'KIKO';
-var Comment14 = '#KIKOTOTO (FADPER66) = 91*23';
+var namagroup14 = 'PEDRO';
+var Comment14 = '#PEDRO4D (FADPER66*91*23*56)';
 var namagroup15 = 'NEMO';
-var Comment15 = 'NEMO4D (FADNOS44) : 88*31*59';
+var Comment15 = 'NEMO4D (FADNOS44) : 31*59*88';
 var namagroup16 = 'KEITOGEL';
-var Comment16 = '#keitogel = (FADCOOL88) = 31*59*56';
+var Comment16 = '#keitogel = (FADCOOL88) = 31*59*19';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( FADPLUS33 ) : 68*34*71';
 
