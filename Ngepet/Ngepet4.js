@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ROY4
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Ngepet/Ngepet4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/Cuanaja/refs/heads/main/Ngepet/Ngepet4.js
@@ -17,15 +17,14 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( 1TAMBAH1 ) : 19*16*44';
 var namagroup2 = 'VESPA7093L';
 var Comment2 = 'VESPATOGEL (2TAMBAH2) 00*94*43';
 var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( 3TAMBAH3 ) : 90*13*14';
-var namagroup4 = 'ANGKER';
-var Comment4 = 'ANGKER4D=4TAMBAH4=90*13*14';
+var namagroup4 = 'Hoho';
+var Comment4 = '4TAMBAH4 : 90*13*14 #HOHOTOGEL';
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (5TAMBAH5*00*94*43)';
 var namagroup6 = 'JNETOTO';
@@ -38,20 +37,21 @@ var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / 9TAMBAH9 / 93 , 25 , 91';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL 10KALI10 93*25*91';
-var namagroup11 = 'G1LA';
-var Comment11 = 'GILA4D=11TAMBAH11=80*77*11';
+var namagroup11 = 'OPUNG';
+var Comment11 = 'OPUNG4D ( 11TAMBAH11 ) : 80*77*11';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY 12KALI12 80*77*11';
 var namagroup13 = 'TAFSIR';
 var Comment13 = 'SIJITOGEL 2TAMBAH2 59*22*28';
-var namagroup14 = 'GOHT0G3L';
-var Comment14 = 'GOHTOGEL=55KALI55=21*03*62';
+var namagroup14 = 'NEMO';
+var Comment14 = 'NEMO4D (55KALI55) : 21*03*62';
 var namagroup15 = 'BUKU';
 var Comment15 = 'IYATOTO JEBRET1000X 78*59*22';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (DUAR500X) = 21*03*62';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( 13KURANG13 ) : 21*03*62';
+
 
 //Batas
 var namagroup18 = 'Jawatengah';
