@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu2
 // @namespace    http://tampermonkey.net/
-// @version      3.6
+// @version      3.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu2.js
@@ -19,39 +19,39 @@
 
 
 var namagroup1 = 'TAFSIR';
-var Comment1 = 'SIJITOGEL COROMEN99 82*38*23';
+var Comment1 = 'SIJITOGEL COROMEN99 10*16*74';
 var namagroup2 = 'TIKTAKTOGEL';
-var Comment2 = 'Tiktaktogel / PECIRIT99 / 82 , 38 , 23';
+var Comment2 = 'Tiktaktogel / PECIRIT99 / 10 , 16 , 74';
 var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
 var Comment3 = 'Tok99toto ( UPINIPIN99 ) : 01*88*41';
-var namagroup4 = 'ANGKER';
-var Comment4 = 'ANGKER4D=PAKHAJI99=01*88*41';
+var namagroup4 = 'Hoho';
+var Comment4 = 'PAKHAJI99 : 01*88*41 #HOHOTOGEL';
 var namagroup5 = 'KUY';
 var Comment5 = 'TOGELKUY KEPENTUT99 25*36*54';
 var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(BOSTUA99)*25*36*54';
 var namagroup7 = 'TOYIBSLOT';
 var Comment7 = '#TOYIBSLOT ( PAHLAWAN99 ) : 28*49*26';
-var namagroup8 = 'G41B';
-var Comment8 = 'GAIB4D=JANGKRIK99=28*49*26';
-var namagroup9 = 'PEDRO TRIFHTING';
-var Comment9 = '#PEDRO4D (BELALANG99*06*20*59#750)';
+var namagroup8 = 'MAYAPADA';
+var Comment8 = 'BETT*Mayapada4D(BO)*JANGKRIK99*28*49*26';
+var namagroup9 = 'PEDRO';
+var Comment9 = '#PEDRO4D (BELALANG99*06*20*59)';
 var namagroup10 = 'VESPA7093L';
 var Comment10 = 'VESPATOGEL (COROMEN99) 06*20*59';
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (BOLASETAN99) = 05*11*33';
-var namagroup12 = 'G1LA';
-var Comment12 = 'GILA4D=BLIBLI99=05*11*33';
+var namagroup12 = 'NEMO';
+var Comment12 = 'NEMO4D (BLIBLI99) : 05*11*33';
 var namagroup13 = 'SAHABAT';
-var Comment13 = 'K86TOTO ( CEPIRIT99 ) : 10*16*74';
-var namagroup14 = 'GOHT0G3L';
-var Comment14 = 'GOHTOGEL=MPUKJERU99=10*16*74';
+var Comment13 = 'K86TOTO ( CEPIRIT99 ) : 82*38*23';
+var namagroup14 = 'OPUNG';
+var Comment14 = 'OPUNG4D ( MPUKJERU99 ) : 82*38*23';
 var namagroup15 = 'BUKU';
 var Comment15 = 'IYATOTO SNIPERDOR99 76*75*84';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (TAPERA99) = 05*11*33';
 var namagroup17 = '453P';
-var Comment17 = 'ASEPTOGEL KAROKOE99 75*84*70';	
+var Comment17 = 'ASEPTOGEL KAROKOE99 75*84*70';
 
 
 //Batas
