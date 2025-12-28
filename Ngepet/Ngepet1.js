@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ROY1
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet1.js
@@ -17,8 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
-"var namagroup1 = 'SAHABAT';
+var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( BANDALAM98 ) : 89*02*76';
 var namagroup2 = 'VESPA7093L';
 var Comment2 = 'VESPATOGEL (SEPEDABMX23) 56*01*20';
@@ -32,8 +31,8 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(FUFUFEFE09)*89*02*76';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (DEWAKOPI65) = 30*87*39';
-var namagroup8 = 'MAYAPADA';
-var Comment8 = 'BETT*Mayapada4D(BO)*DEWASURYA12*30*87*39';
+var namagroup8 = 'HAT0R1';
+var Comment8 = '#HATORIBET*DEWASURYA12*30*87*39';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / DEWPANCAL12 / 83 , 49 , 97';
 var namagroup10 = '453P';
@@ -51,7 +50,7 @@ var Comment15 = 'IYATOTO MATABIRU89 99*17*31';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (ESCENDOL1) = 86*82*95';
 var namagroup17 = 'TOYIBSLOT';
-var Comment17 = '#TOYIBSLOT ( ESKOPYOR2 ) : 86*82*95';"	
+var Comment17 = '#TOYIBSLOT ( ESKOPYOR2 ) : 86*82*95';
 
 //Batas
 var namagroup18 = 'Jawatengah';
