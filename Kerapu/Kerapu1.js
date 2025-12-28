@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu1
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
@@ -17,7 +17,6 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
-
 var namagroup1 = 'TAFSIR';
 var Comment1 = 'SIJITOGEL KOPILATTE99 12*67*07';
 var namagroup2 = 'TIKTAKTOGEL';
@@ -32,11 +31,11 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(TIKITIKA)*47*56*43';
 var namagroup7 = 'TOYIBSLOT';
 var Comment7 = '#TOYIBSLOT ( ARIPINUPIN ) : 58*17*93';
-var namagroup8 = 'MAYAPADA';
-var Comment8 = 'BETT*Mayapada4D(BO)*KOMPOR*58*17*93';
+var namagroup8 = 'HAT0R1';
+var Comment8 = '#HATORIBET*CENGKAL*58*17*93';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (TOLEIRENG*64*65*32)';
-var namagroup10 = 'VESPA7093L';
+var namagroup10 = 'VESPA';
 var Comment10 = 'VESPATOGEL (WONGSO777) 64*65*32';
 var namagroup11 = 'DIVA4D';
 var Comment11 = '#DIVA4D (805DIVA) = 94*03*09';
