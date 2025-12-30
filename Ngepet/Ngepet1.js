@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ROY1
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet1.js
@@ -21,7 +21,7 @@ var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( BANDALAM98 ) : 89*02*76';
 var namagroup2 = 'VESPA7093L';
 var Comment2 = 'VESPATOGEL (SEPEDABMX23) 56*01*20';
-var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup3 = 'ALLPAS';
 var Comment3 = 'Tok99toto ( JALIPONG89 ) : 70*46*34';
 var namagroup4 = 'Hoho';
 var Comment4 = 'SAPULIDI45 : 70*46*34 #HOHOTOGEL';
