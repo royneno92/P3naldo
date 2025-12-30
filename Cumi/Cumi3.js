@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI3
 // @namespace    http://tampermonkey.net/
-// @version      4.1
+// @version      4.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi3.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi3.js
@@ -21,7 +21,7 @@ var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( FADRAM77 ) : 31*59*19';
 var namagroup2 = 'TAFSIR';
 var Comment2 = 'SIJITOGEL FADLOZ22 95*66*28';
-var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup3 = 'ALLPAS';
 var Comment3 = 'Tok99toto ( FADPUZ33 ) : 06*10*20';
 var namagroup4 = 'Hoho';
 var Comment4 = 'FADNOS44 : 06*10*20 #HOHOTOGEL';
