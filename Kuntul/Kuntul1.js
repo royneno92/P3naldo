@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL1
 // @namespace    http://tampermonkey.net/
-// @version      3.6
+// @version      3.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul1.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul1.js
@@ -19,7 +19,7 @@
 
 
 
-var namagroup1 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( ULOMEK25 ) : 32*54*58';
 var namagroup2 = 'SAHABAT';
 var Comment2 = 'K86TOTO ( ULOPEJU17 ) : 32*54*58';
