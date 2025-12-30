@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu2
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      4.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu2.js
@@ -22,7 +22,7 @@ var namagroup1 = 'TAFSIR';
 var Comment1 = 'SIJITOGEL COROMEN99 10*16*74';
 var namagroup2 = 'TIKTAKTOGEL';
 var Comment2 = 'Tiktaktogel / PECIRIT99 / 10 , 16 , 74';
-var namagroup3 = '𝐀𝐋𝐋𝐏𝐀𝐒';
+var namagroup3 = 'ALLPAS';
 var Comment3 = 'Tok99toto ( UPINIPIN99 ) : 01*88*41';
 var namagroup4 = 'Hoho';
 var Comment4 = 'PAKHAJI99 : 01*88*41 #HOHOTOGEL';
