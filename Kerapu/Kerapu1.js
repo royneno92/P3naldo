@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu1
 // @namespace    http://tampermonkey.net/
-// @version      4.4
+// @version      4.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
@@ -453,7 +453,8 @@ function mulaiRefresh() {
     if (myrefresh !== null) return; // Hindari duplikat interval
 
     myrefresh = setInterval(function () {
-        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+        var urutkan = document.querySelectorAll(
+  "[data-mcomponent='ServerTextArea'], [data-mcomponent='TextArea']");
         var waktupost = document.getElementsByClassName("native-text");
 
         if (!document.querySelectorAll("[role='presentation']")[0]) {
