@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL2
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul2.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul2.js
@@ -455,7 +455,8 @@ function mulaiRefresh() {
     if (myrefresh !== null) return; // Hindari duplikat interval
 
     myrefresh = setInterval(function () {
-        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+        var urutkan = document.querySelectorAll(
+  "[data-mcomponent='ServerTextArea'], [data-mcomponent='TextArea']");
         var waktupost = document.getElementsByClassName("native-text");
 
         if (!document.querySelectorAll("[role='presentation']")[0]) {
