@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ngepet1
 // @namespace    http://tampermonkey.net/
-// @version      4.3
+// @version      4.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet1.js
@@ -451,7 +451,8 @@ function mulaiRefresh() {
     if (myrefresh !== null) return; // Hindari duplikat interval
 
     myrefresh = setInterval(function () {
-        var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+        var urutkan = document.querySelectorAll(
+  "[data-mcomponent='ServerTextArea'], [data-mcomponent='TextArea']");
         var waktupost = document.getElementsByClassName("native-text");
 
         if (!document.querySelectorAll("[role='presentation']")[0]) {
