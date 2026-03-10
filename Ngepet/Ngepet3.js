@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ROY3
+// @name         Ngepet3
 // @namespace    http://tampermonkey.net/
 // @version      4.6
 // @description  try to take over the world!
