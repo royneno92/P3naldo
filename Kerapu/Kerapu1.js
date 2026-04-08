@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu1
 // @namespace    http://tampermonkey.net/
-// @version      4.7
+// @version      4.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu1.js
@@ -17,6 +17,8 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
+
+ 
 var namagroup1 = 'TAFSIR';
 var Comment1 = 'SIJITOGEL KOPILATTE99 12*67*07';
 var namagroup2 = 'TIKTAKTOGEL';
@@ -31,7 +33,7 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(TIKITIKA)*47*56*43';
 var namagroup7 = 'TOYIBSLOT';
 var Comment7 = '#TOYIBSLOT ( ARIPINUPIN ) : 58*17*93';
-var namagroup8 = 'INFO';
+var namagroup8 = 'HAT0R1';
 var Comment8 = '#HATORIBET*CENGKAL*58*17*93';
 var namagroup9 = 'PEDRO';
 var Comment9 = '#PEDRO4D (TOLEIRENG*64*65*32)';
@@ -43,15 +45,14 @@ var namagroup12 = 'NEMO';
 var Comment12 = 'NEMO4D (POLOPO99) : 94*03*09';
 var namagroup13 = 'SAHABAT';
 var Comment13 = 'K86TOTO ( GEPREKZX99 ) : 34*55*52';
-var namagroup14 = 'OPUNG';
-var Comment14 = 'OPUNG4D ( GHOIB ) : 34*55*52';
+var namagroup14 = 'JOTUNTOTO';
+var Comment14 = '#JOTUNTOTO(GHOIB)*34*55*52';
 var namagroup15 = 'BUKU';
 var Comment15 = 'IYATOTO IJOLUMUT 73*44*66';
 var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (ARIFGUANTENG) = 94*03*09';
 var namagroup17 = '453P';
 var Comment17 = 'ASEPTOGEL ARIFASEP 44*66*30';
-
 
 //Batas
 var namagroup18 = 'Jawatengah';
