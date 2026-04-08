@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI3
 // @namespace    http://tampermonkey.net/
-// @version      4.9
+// @version      5.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi3.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi3.js
@@ -16,6 +16,8 @@
 // @connect      api.telegram.org
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
+
+
 
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( FADRAM77 ) : 31*59*19';
