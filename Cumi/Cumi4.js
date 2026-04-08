@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI4
 // @namespace    http://tampermonkey.net/
-// @version      4.9
+// @version      5.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi4.js
@@ -17,6 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
+ 
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( JEMMUT171 ) : 21*64*51';
 var namagroup2 = 'TAFSIR';
