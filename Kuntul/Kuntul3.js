@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL3
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul3.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul3.js
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 
- 
+
 var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( CETIAUCIT51 ) : 49*04*41';
 var namagroup2 = 'SAHABAT';
@@ -29,10 +29,10 @@ var namagroup4 = 'TAFSIR';
 var Comment4 = 'SIJITOGEL CETIAUKING49 15*13*62';
 var namagroup5 = '453P';
 var Comment5 = 'ASEPTOGEL CEKAUCENG77 87*72*50';
-var namagroup6 = 'OPUNG';
-var Comment6 = 'OPUNG4D ( CAPGOCENG15 ) : 87*72*50';
-var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*CEBANGO10*74*55*38';
+var namagroup6 = 'UPINSLOT';
+var Comment6 = '#UPINSLOT ( CAPGOCENG15 ) 87*72*50 BETTING';
+var namagroup7 = '𝐊𝐀𝐏𝐀𝐋𝐒𝐋𝐎𝐓';
+var Comment7 = '#KAPALSLOT ( CEBANGO10 ) = 74*55*38';
 var namagroup8 = 'JNE';
 var Comment8 = '#JNETOTO(CETIAUPUA39)*74*55*38';
 var namagroup9 = 'TOYIB';
@@ -48,7 +48,7 @@ var Comment13 = 'NEMO4D (CETIAULAY12) : 14*77*17';
 var namagroup14 = 'BUKU';
 var Comment14 = 'IYATOTO CETIAULE61 14*77*17';
 var namagroup15 = 'KEI';
-var Comment15 = '#keitogel = (CETIAUGO58) = 60*48#10';
+var Comment15 = '#keitogel = (CETIAUGO58) = 60*48*74';
 var namagroup16 = 'KOITOTO';
 var Comment16 = '#KOITOTO ( CECICUIT11 ) 99*06';
 var namagroup17 = 'KIKO';
