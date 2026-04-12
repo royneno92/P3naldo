@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL4
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul4.js
@@ -17,6 +17,7 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
+
 var namagroup1 = 'ALLPAS';
 var Comment1 = 'Tok99toto ( JIN5WAKTU ) : 61*75*81';
 var namagroup2 = 'SAHABAT';
@@ -27,10 +28,10 @@ var namagroup4 = 'TAFSIR';
 var Comment4 = 'SIJITOGEL JINWATUK 79*11*84';
 var namagroup5 = '453P';
 var Comment5 = 'ASEPTOGEL JINPUSING 19*31*05';
-var namagroup6 = 'OPUNG';
-var Comment6 = 'OPUNG4D ( JINYAHUD ) : 19*31*05';
-var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*JINHIBIN*96*70*30';
+var namagroup6 = 'UPINSLOT';
+var Comment6 = '#UPINSLOT ( JINYAHUD ) 19*31*05 BETTING';
+var namagroup7 = '𝐊𝐀𝐏𝐀𝐋𝐒𝐋𝐎𝐓';
+var Comment7 = '#KAPALSLOT ( JINHIBIN ) = 96*70*30';
 var namagroup8 = 'JNE';
 var Comment8 = '#JNETOTO(JINKASUR)*96*70*30';
 var namagroup9 = 'TOYIB';
@@ -46,12 +47,11 @@ var Comment13 = 'NEMO4D (JINJANJUN) : 98*97*82';
 var namagroup14 = 'BUKU';
 var Comment14 = 'IYATOTO JINKURUS 98*97*82';
 var namagroup15 = 'KEI';
-var Comment15 = '#keitogel = (JINMESIR) = 33*44 le';
+var Comment15 = '';
 var namagroup16 = 'KOITOTO';
 var Comment16 = '#KOITOTO ( JINTOBAT ) 69*09';
 var namagroup17 = 'KIKO';
 var Comment17 = '#KIKOTOTO (JINSYURGA) = 69*09';
-
 
 
 
