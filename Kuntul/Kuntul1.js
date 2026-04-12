@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KUNTUL1
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul1.js 
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kuntul/Kuntul1.js
@@ -29,10 +29,10 @@ var namagroup4 = 'TAFSIR';
 var Comment4 = 'SIJITOGEL ULOCOBRA26 12*18*39';
 var namagroup5 = '453P';
 var Comment5 = 'ASEPTOGEL ULONTU18 51*21*08';
-var namagroup6 = 'OPUNG';
-var Comment6 = 'OPUNG4D ( MAMBUAWAKMU ) : 51*21*08';
-var namagroup7 = 'MAYAPADA';
-var Comment7 = 'BETT*Mayapada4D(BO)*BADEGAWAKMU*42*68*65';
+var namagroup6 = 'UPINSLOT';
+var Comment6 = '#UPINSLOT ( MAMBUAWAKMU ) 51*21*08 BETTING';
+var namagroup7 = '𝐊𝐀𝐏𝐀𝐋𝐒𝐋𝐎𝐓';
+var Comment7 = '#KAPALSLOT ( BADEGAWAKMU ) = 42*68*65';
 var namagroup8 = 'JNE';
 var Comment8 = '#JNETOTO(ULOCILIT21)*42*68*65';
 var namagroup9 = 'TOYIB';
@@ -48,11 +48,44 @@ var Comment13 = 'NEMO4D (BADANBAUU) : 88*64*93';
 var namagroup14 = 'BUKU';
 var Comment14 = 'IYATOTO ULOCOROS13 88*64*93';
 var namagroup15 = 'KEI';
-var Comment15 = '#keitogel = (ULOEDIAN16) = 28*92#10';
+var Comment15 = '#keitogel = (ULOEDIAN16) = 28*92*42';
 var namagroup16 = 'KOITOTO';
 var Comment16 = '#KOITOTO ( JAREBAUBADAN ) 78*24';
 var namagroup17 = 'KIKO';
-var Comment17 = '#KIKOTOTO (MAMBUAWAKE) = 78*24';
+var Comment17 = '#KIKOTOTO (MAMBUAWAKE) = 78*24';"		"var namagroup1 = 'ALLPAS';
+var Comment1 = 'Tok99toto ( TOGEGANJAL85 ) : 23*80*35';
+var namagroup2 = 'SAHABAT';
+var Comment2 = 'K86TOTO ( TOGEUDUT93 ) : 23*80*35';
+var namagroup3 = 'DIVA';
+var Comment3 = '#DIVA4D (TOGEMANTUL96) = 73*57*26';
+var namagroup4 = 'TAFSIR';
+var Comment4 = 'SIJITOGEL TOGEPASAR84 73*57*26';
+var namagroup5 = '453P';
+var Comment5 = 'ASEPTOGEL TOGEBOBO92 83*52*02';
+var namagroup6 = 'UPINSLOT';
+var Comment6 = '#UPINSLOT ( TOGESIU10 ) 83*52*02 BETTING';
+var namagroup7 = '𝐊𝐀𝐏𝐀𝐋𝐒𝐋𝐎𝐓';
+var Comment7 = '#KAPALSLOT ( TOGE1KG ) = 07*36*46';
+var namagroup8 = 'JNE';
+var Comment8 = '#JNETOTO(TOGEDOR89)*07*36*46';
+var namagroup9 = 'TOYIB';
+var Comment9 = '#TOYIBSLOT ( TOGENJET86 ) : 47*56*25';
+var namagroup10 = 'KUY';
+var Comment10 = 'TOGELKUY TOGENTAT87 47*56*25';
+var namagroup11 = 'Hoho';
+var Comment11 = 'TOGETAUGE : 66*67*10 #HOHOTOGEL';
+var namagroup12 = 'VESPA';
+var Comment12 = 'VESPATOGEL (TOGEPASAR84) 66*67*10';
+var namagroup13 = 'NEMO';
+var Comment13 = 'NEMO4D (TOGEASLI66) : 94*20*85';
+var namagroup14 = 'BUKU';
+var Comment14 = 'IYATOTO TOGEKLIMAKS9 94*20*85';
+var namagroup15 = 'KEI';
+var Comment15 = '#keitogel = (TOGETURU94) = 40*53';
+var namagroup16 = 'KOITOTO';
+var Comment16 = '#KOITOTO ( TOGEGUEDE ) 76*22';
+var namagroup17 = 'KIKO';
+var Comment17 = '#KIKOTOTO (TOGEINAMO) = 76*22';
 
 
 //Batas
