@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ngepet2
 // @namespace    http://tampermonkey.net/
-// @version      4.8
+// @version      4.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet2.js
@@ -28,17 +28,17 @@ var Comment4 = 'RIFKOSEK78 : 33*23*51 #HOHOTOGEL';
 var namagroup5 = 'PEDRO';
 var Comment5 = '#PEDRO4D (RIBEEMWE14*08*12*92)';
 var namagroup6 = 'JNETOTO';
-var Comment6 = '#JNETOTO(RIFKUAJA12)*61*27*48';
+var Comment6 = '#JNETOTO(RIFKUAJA12)*69*36*24';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (RIBEEMWE14) = 69*36*24';
-var namagroup8 = 'HAT0R1';
-var Comment8 = '#HATORIBET*RITUNER12*69*36*24';
+var namagroup8 = 'BLITAR4D';
+var Comment8 = '#BLITAR4D (RITUNER12) = 61*27';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / RILAMBO66 / 58 , 04 , 81';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL RIFHAMYU70 58*04*81';
-var namagroup11 = 'JOTUNTOTO';
-var Comment11 = '#JOTUNTOTO(RICRUISER01)*18*47*88';
+var namagroup11 = 'KOITOTO';
+var Comment11 = '#KOITOTO ( RICRUISER01 ) 18*47';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY RIFHAMYU70 18*47*88';
 var namagroup13 = 'TAFSIR';
