@@ -31,14 +31,14 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(MONCRUT61)*83*37*49';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (MONZELL62) = 89*74*65';
-var namagroup8 = 'HAT0R1';
-var Comment8 = '#HATORIBET*MOZALL63*89*74*65';
+var namagroup8 = 'BLITAR4D';
+var Comment8 = '#BLITAR4D (MOZALL63) = 89*74';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / MONTREX64 / 45 , 46 , 38';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL MONCRIT65 45*46*38';
-var namagroup11 = 'JOTUNTOTO';
-var Comment11 = '#JOTUNTOTO(MONLES66)*02*09*39';
+var namagroup11 = 'KOITOTO';
+var Comment11 = '#KOITOTO ( MONLES66 ) 02*09';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY MONBANK67 36*01*94';
 var namagroup13 = 'VESPA';
@@ -51,7 +51,6 @@ var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (MONYUS71) = 41*40*81';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( MONWER68 ) : 83*37*49';
-
 
 //Batas
 var namagroup18 = 'Jawatengah';
