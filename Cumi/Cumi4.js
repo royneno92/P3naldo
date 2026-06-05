@@ -17,7 +17,6 @@
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
- 
 var namagroup1 = 'SAHABAT';
 var Comment1 = 'K86TOTO ( JEMMUT171 ) : 21*64*51';
 var namagroup2 = 'TAFSIR';
@@ -32,14 +31,14 @@ var namagroup6 = 'JNETOTO';
 var Comment6 = '#JNETOTO(JEMBEREN717)*90*35*80';
 var namagroup7 = 'DIVA4D';
 var Comment7 = '#DIVA4D (JEMPEK818) = 43*97*52';
-var namagroup8 = 'HAT0R1';
-var Comment8 = '#HATORIBET*JEMNTU919*43*97*52';
+var namagroup8 = 'BLITAR4D';
+var Comment8 = '#BLITAR4D (JEMNTU919) = 43*97';
 var namagroup9 = 'TIKTAKTOGEL';
 var Comment9 = 'Tiktaktogel / JEMSLIT121 / 07 , 84 , 77';
 var namagroup10 = '453P';
 var Comment10 = 'ASEPTOGEL JEMCIL131 07*84*77';
-var namagroup11 = 'JOTUNTOTO';
-var Comment11 = '#JOTUNTOTO(JEMLOZ141)*73*53*79';
+var namagroup11 = 'KOITOTO';
+var Comment11 = '#KOITOTO ( JEMLOZ141 ) 73*53';
 var namagroup12 = 'KUY';
 var Comment12 = 'TOGELKUY JEMKROS151 05*27*98';
 var namagroup13 = 'VESPA';
@@ -52,6 +51,7 @@ var namagroup16 = 'KEITOGEL';
 var Comment16 = '#keitogel = (JEMNDIANG) = 21*64*51';
 var namagroup17 = 'TOYIBSLOT';
 var Comment17 = '#TOYIBSLOT ( JEMSRENG161 ) : 90*35*80';
+
 
 //Batas
 var namagroup18 = 'Jawatengah';
