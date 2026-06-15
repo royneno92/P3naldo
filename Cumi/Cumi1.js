@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CUMI1
+// @name         CUMI2
 // @namespace    http://tampermonkey.net/
 // @version      5.2
 // @description  try to take over the world!
@@ -514,7 +514,7 @@ function startAutoTask() {
 }
 
 
-var TELEGRAM_TOKEN = '8825413477:AAHCWqL0onj3yxN0TNNSeh_TjJug1u4jims'; // GANTI
+var TELEGRAM_TOKEN = '8841941027:AAGt1LTI8GCVAOb2EAQzaQTP33n-qJTrFa4'; // GANTI
 var TELEGRAM_CHAT_ID = '-1002717306025'; // GANTI
 
 let lastMessageSent = ""; // lokal per tab/browser
