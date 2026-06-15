@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ngepet4
 // @namespace    http://tampermonkey.net/
-// @version      5.0
+// @version      5.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Ngepet/Ngepet4.js
