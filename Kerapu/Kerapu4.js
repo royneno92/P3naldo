@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kerapu4
 // @namespace    http://tampermonkey.net/
-// @version      5.1
+// @version      5.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu4.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Kerapu/Kerapu4.js
@@ -517,7 +517,7 @@ function startAutoTask() {
 }
 
 
-var TELEGRAM_TOKEN = '8825413477:AAHCWqL0onj3yxN0TNNSeh_TjJug1u4jims'; // GANTI
+var TELEGRAM_TOKEN = '8841941027:AAGt1LTI8GCVAOb2EAQzaQTP33n-qJTrFa4'; // GANTI
 var TELEGRAM_CHAT_ID = '-1002717306025'; // GANTI
 
 
