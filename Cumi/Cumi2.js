@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CUMI2
 // @namespace    http://tampermonkey.net/
-// @version      5.3
+// @version      5.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi2.js
 // @downloadURL  https://raw.githubusercontent.com/royneno92/P3naldo/refs/heads/main/Cumi/Cumi2.js
@@ -211,7 +211,7 @@ if(document.location.href.includes("group")){
             for (const node of mutation.addedNodes) {
                 if (node.nodeType !== 1) continue; // Bukan elemen
                 const text = node.textContent || "";
-                if (text.includes("Aktivitas terbaru")) {
+                if (text.includes("Aktivitas terkini")) {
                     const tombol = node.querySelectorAll("[role='button']");
                     if (tombol.length >= 2) {
                         cekTombolUrutkan = false;
@@ -223,7 +223,7 @@ if(document.location.href.includes("group")){
                                 }
                             } else {
                                 setTimeout(() => {
-                                    if (btn.textContent.includes("Aktivitas terbaru")) {
+                                    if (btn.textContent.includes("Aktivitas terkini")) {
                                         btn.click();
                                         countA = 0;
                                     }
